@@ -2,7 +2,7 @@
 layout: post
 title: 'Azure AI Foundry'
 category: AI 
-author: amitkumar
+author: your_author_id
 excerpt: 'Lets decompose Azure AI Foundry'
 tags: azure ai aisecurity
 image: /assets/images/Azure-AI-Foundry-logo.jpg
