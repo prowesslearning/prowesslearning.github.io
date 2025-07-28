@@ -2,7 +2,7 @@
 layout: post
 title: 'Azure AI Foundry Platform Best Practises'
 category: AI
-author: amitkumar
+author: your_author_id
 excerpt: 'Best practises to consider while configuring Azure AI Foundry'
 tags: azure ai aisecurity aibestpractises
 image: /assets/images/AIFoundry.png
