@@ -2,6 +2,7 @@
 your_author_id: # This is the ID you'll use in your post's front matter
   name: Amit Kumar
   url: https://github.com/prowesslearning # Or your GitHub profile, or a specific author page
+  avatar: /assets/images/avatar/ami-profile-picture.jpg
   # avatar: /assets/img/avatar.jpg # Optional: Path to author's avatar
   # bio: A brief description of the author. # Optional
   # You can also add other social links here if they are specific to this author
@@ -10,5 +11,5 @@ your_author_id: # This is the ID you'll use in your post's front matter
 another_author_id:
   name: Another Author's Name
   url: https://anotherauthor.com
-  avatar: /assets/img/another-avatar.jpg
+  avatar: /assets/images/avatar/ami-profile-picture.jpg
   bio: Bio for another author.
